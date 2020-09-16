@@ -4,9 +4,9 @@
 - RollBack DB
 - Constants Errors
 
+
 <p align="center">
-  <img width="200px" src="https://nestjs.com/img/logo_text.svg">
-  <img src="https://www.meta.com.br/wp-content/uploads/2019/04/logo.png">
+  <a href="https://www.meta.com.br/" target="blank"><img src="https://www.meta.com.br/wp-content/uploads/2019/04/logo.png" alt="Meta Logo" /></a>
 </p>
 
 
@@ -23,6 +23,8 @@
 | 🔗 | **Validation:** provides pipes available right out-of-the-box with [class-validator](https://github.com/typestack/class-validator) to enforce validation rules for all incoming client payloads |
 | ⚠️ | **Logger** with [Winston](https://github.com/winstonjs/winston) using different levels to track exceptions easily |
 | 🔄 | **Migrations** using [TypeORM](https://github.com/typeorm/typeorm) to apply incremental updates to the database |
+
+
 
 ## Installation 📚
 
@@ -75,6 +77,8 @@ www.meta.com.br
 
 ## Happy coding 💯
 Made with ❤️ for Meta team, Rio de Janeiro.
+
+
 
 <p align="center">
   <a href="https://www.meta.com.br/" target="blank"><img src="https://www.meta.com.br/wp-content/uploads/2019/04/logo.png" alt="Meta Logo" /></a>
