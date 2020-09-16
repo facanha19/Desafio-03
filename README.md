@@ -5,8 +5,8 @@
 - Constants Errors
 
 <p align="center">
-  <img width="150px" src="https://avatars0.githubusercontent.com/u/28855608?s=200&v=4" align="right">
-  <img width="150px" src="https://www.meta.com.br/wp-content/uploads/2019/04/logo.png" align="left">
+  <img width="217px" src="https://nestjs.com/img/logo_text.svg" align="right">
+  <img src="https://www.meta.com.br/wp-content/uploads/2019/04/logo.png" align="left">
 </p>
 
 
