@@ -4,10 +4,19 @@
 - RollBack DB
 - Constants Errors
 
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
-  <a href="https://www.meta.com.br/" target="blank"><img src="https://www.meta.com.br/wp-content/uploads/2019/04/logo.png" alt="Meta Logo" /></a>
-</p>
+<div class="row">
+  <div class="column">
+    <p>
+      <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+    </p>
+  </div>
+  <div class="column">
+    <p>
+      <a href="https://www.meta.com.br/" target="blank"><img src="https://www.meta.com.br/wp-content/uploads/2019/04/logo.png" alt="Meta Logo" /></a>
+    </p>
+  </div>
+</div>
+
 
 |   | API Meta Maturity Health Engine |
 | - | ------------ |
