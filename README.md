@@ -25,7 +25,7 @@
 | ⚠️ | **Logger** with [Winston](https://github.com/winstonjs/winston) using different levels to track exceptions easily |
 | 🔄 | **Migrations** using [TypeORM](https://github.com/typeorm/typeorm) to apply incremental updates to the database |
 
-
+</br>
 
 ## Installation 📚
 
